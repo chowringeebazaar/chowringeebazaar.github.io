@@ -1,0 +1,52 @@
+[
+	
+{ 
+  "id": "1",
+  "image": "patt1.jpg",
+  "name": "Beady little eyes",
+  "price": "3500",
+  "productdetails":"A sleeveless powder blue tired frock in mul cotton with rose block print all over.It comes along with a matching elasticated bloomer.<br>Handcrafted <br> Back button closure <br> 100% Cotton Cold water | Machine wash in gentle cycle"
+},
+{
+  "id": "Sd23Gk2",
+  "image": "patt2.jpg",
+  "name": "Big eyes",
+  "price": "3500",
+  "productdetails":"A sleeveless powder blue tired frock in mul cotton with rose block print all over.It comes along with a matching elasticated bloomer.<br>Handcrafted <br> Back button closure <br> 100% Cotton Cold water | Machine wash in gentle cycle"
+},
+{
+  "id": "3",
+  "image": "patt3.jpg",
+  "name": "Sunflower Scent",
+  "price": "3500",
+  "productdetails":"A sleeveless powder blue tired frock in mul cotton with rose block print all over.It comes along with a matching elasticated bloomer.<br>Handcrafted <br> Back button closure <br> 100% Cotton Cold water | Machine wash in gentle cycle"
+},
+{
+  "id": "4",
+  "image": ["patt4.jpg","patt5.jpg","patt6.jpg","patt7.jpg"],
+  "name": "Flower Ark",
+  "price": "3500",
+  "productdetails":"A sleeveless powder blue tired frock in mul cotton with rose block print all over.It comes along with a matching elasticated bloomer.<br>Handcrafted <br> Back button closure <br> 100% Cotton Cold water | Machine wash in gentle cycle"
+},
+{
+  "id": "5",
+  "image": "patt5.jpg",
+  "name": "Vulnerable Clove",
+  "price": "3500",
+  "productdetails":"A sleeveless powder blue tired frock in mul cotton with rose block print all over.It comes along with a matching elasticated bloomer.<br>Handcrafted <br> Back button closure <br> 100% Cotton Cold water | Machine wash in gentle cycle"
+},
+{
+  "id": "6",
+  "image": "patt6.jpg",
+  "name": "Blooms",
+  "price": "3500",
+  "productdetails":"A sleeveless powder blue tired frock in mul cotton with rose block print all over.It comes along with a matching elasticated bloomer.<br>Handcrafted <br> Back button closure <br> 100% Cotton Cold water | Machine wash in gentle cycle"
+},
+{
+  "id": "7",
+  "image": "patt7.jpg",
+  "name": "Rose Valley",
+  "price": "3500",
+  "productdetails":"A sleeveless powder blue tired frock in mul cotton with rose block print all over.It comes along with a matching elasticated bloomer.<br>Handcrafted <br> Back button closure <br> 100% Cotton Cold water | Machine wash in gentle cycle"
+}
+]
