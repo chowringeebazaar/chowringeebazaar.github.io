@@ -80,18 +80,18 @@
   <div class="form-group mt-3">
     <label for="exampleFormControlSelect1">Style</label>
      <select class="form-control" id="shirtlength">
-      <option value="full">Long sleeves</option>
-      <option value="half">Half sleeves</option>
+      <option value="Long sleeves">Long sleeves</option>
+      <option value="Half sleeves">Half sleeves</option>
       
     </select>
 
-    <label for="exampleFormControlSelect1" class="mt-2">Select Size</label>
+    <label for="exampleFormControlSelect1" class="mt-2">Select Size</label> 
     <select class="form-control" id="shirtsize">
-      <option>xs</option>
-      <option>s</option>
-      <option>m</option>
-      <option>l</option>
-      <option>xl</option>
+      <option value="XS">xs</option>
+      <option value="Small">s</option>
+      <option value="Medium">m</option>
+      <option value="Large">l</option>
+      <option value="XL">xl</option>
     </select>
   </div>
   
@@ -371,14 +371,14 @@ $(".wamsg").click(function(){
   console.log("button click");
   var length = $("#shirtlength").val(); 
   var size = $("#shirtsize").val();   
-  var message = "*My Order* %0A"+curitem.name+"( id: "+curitem.id+" ) Size: "+size+ " "+length;
-  var wa = "https://api.whatsapp.com/send?phone=918956739207&text="+message;
+  var message = "Hi, I would like to order %0A"+curitem.name+"( id: "+curitem.id+" )%0A Size: "+size+ " "+length;
+  var wa = "https://api.whatsapp.com/send?phone=917666112341&text="+message;
   window.open(wa, '_blank');
   console.log(wa);
 });
 
 $('#shirtlength').on('change', function() {
-  if(this.value=="full"){
+  if(this.value=="Long sleeves"){
   $('.productpricef').text("₹ "+curitem.fprice+" Long Sleeve");
   }
   else{
