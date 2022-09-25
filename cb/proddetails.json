@@ -1,52 +1,83 @@
 [
 	
 { 
-  "id": "1",
-  "image": "patt1.jpg",
-  "name": "Beady little eyes",
-  "price": "3500",
-  "productdetails":"A sleeveless powder blue tired frock in mul cotton with rose block print all over.It comes along with a matching elasticated bloomer.<br>Handcrafted <br> Back button closure <br> 100% Cotton Cold water | Machine wash in gentle cycle"
+  "id": "SKU192",
+  "image": ["patt2.jpg","patt2 (1).jpg","patt2 (2).jpg","patt2 (3).jpg"],
+  "name": "Evening Celest",
+  "fprice": "2800",
+  "hprice": "2400",
+  "productdetails":"Red Ajrakh handblock printed modal cotton fabric.<br>Made with natural dye. Actual color of the product may differ from the photograph <br><br><b>Washing Care</b> <br> First wash: dry clean. This product has been dyed/printed using traditional dying processes. The fabric may bleed color during washing or when in contact with a lighter colored upholstery. This will reduce after a few washes. Handwash with cold water and mild detergent"
 },
 {
-  "id": "Sd23Gk2",
-  "image": "patt2.jpg",
-  "name": "Big eyes",
-  "price": "3500",
-  "productdetails":"A sleeveless powder blue tired frock in mul cotton with rose block print all over.It comes along with a matching elasticated bloomer.<br>Handcrafted <br> Back button closure <br> 100% Cotton Cold water | Machine wash in gentle cycle"
+  "id": "SKU068",
+  "image": ["patt1.jpg","patt1 (1).jpg","patt1 (2).jpg","patt1 (3).jpg"],
+  "name": "Candy Snow",
+  "fprice": "1800",
+  "hprice": "1500",
+  "productdetails": "White Pochampalli ikkat cotton fabric.<br>100% Pure Cotton. Actual color of the product may differ from the photograph <br><br><b>Washing Care</b> <br> First wash: dry clean. This product has been dyed/printed using traditional dying processes. The fabric may bleed color during washing or when in contact with a lighter colored upholstery. This will reduce after a few washes. Handwash with cold water and mild detergent"
 },
 {
-  "id": "3",
-  "image": "patt3.jpg",
-  "name": "Sunflower Scent",
-  "price": "3500",
-  "productdetails":"A sleeveless powder blue tired frock in mul cotton with rose block print all over.It comes along with a matching elasticated bloomer.<br>Handcrafted <br> Back button closure <br> 100% Cotton Cold water | Machine wash in gentle cycle"
+  "id": "SKU801",
+  "image": ["patt3.jpg","patt3 (1).jpg","patt3 (2).jpg","patt3 (3).jpg"],
+  "name": "Foliage Spade",
+  "fprice": "2600",
+  "hprice": "2200",
+  "productdetails": "Green Ajrakh handblock printed modal cotton fabric.<br>Made with natural dye. Actual color of the product may differ from the photograph <br><br><b>Washing Care</b> <br> First wash: dry clean. This product has been dyed/printed using traditional dying processes. The fabric may bleed color during washing or when in contact with a lighter colored upholstery. This will reduce after a few washes. Handwash with cold water and mild detergent"
 },
 {
-  "id": "4",
-  "image": ["patt4.jpg","patt5.jpg","patt6.jpg","patt7.jpg"],
-  "name": "Flower Ark",
-  "price": "3500",
-  "productdetails":"A sleeveless powder blue tired frock in mul cotton with rose block print all over.It comes along with a matching elasticated bloomer.<br>Handcrafted <br> Back button closure <br> 100% Cotton Cold water | Machine wash in gentle cycle"
+  "id": "SKU239",
+  "image": ["patt6.jpg","patt6 (1).jpg","patt6 (2).jpg","patt6 (3).jpg"],
+  "name": "Endless Summer",
+  "fprice": "2600",
+  "hprice": "2200",
+  "productdetails": "Multi color Ajrakh handblock printed modal cotton fabric.<br>Made with natural dye. Actual color of the product may differ from the photograph <br><br><b>Washing Care</b> <br> First wash: dry clean. This product has been dyed/printed using traditional dying processes. The fabric may bleed color during washing or when in contact with a lighter colored upholstery. This will reduce after a few washes. Handwash with cold water and mild detergent"
 },
 {
-  "id": "5",
-  "image": "patt5.jpg",
-  "name": "Vulnerable Clove",
-  "price": "3500",
-  "productdetails":"A sleeveless powder blue tired frock in mul cotton with rose block print all over.It comes along with a matching elasticated bloomer.<br>Handcrafted <br> Back button closure <br> 100% Cotton Cold water | Machine wash in gentle cycle"
+  "id": "SKU347",
+  "image": ["patt10.jpg","patt10 (1).jpg","patt10 (2).jpg","patt10 (3).jpg"],
+  "name": "Midnight Flower",
+  "fprice": "2800",
+  "hprice": "2400",
+  "productdetails": "Black Ajrakh handblock printed modal cotton fabric.<br>Made with natural dye. Actual color of the product may differ from the photograph <br><br><b>Washing Care</b> <br> First wash: dry clean. This product has been dyed/printed using traditional dying processes. The fabric may bleed color during washing or when in contact with a lighter colored upholstery. This will reduce after a few washes. Handwash with cold water and mild detergent"
 },
 {
-  "id": "6",
-  "image": "patt6.jpg",
-  "name": "Blooms",
-  "price": "3500",
-  "productdetails":"A sleeveless powder blue tired frock in mul cotton with rose block print all over.It comes along with a matching elasticated bloomer.<br>Handcrafted <br> Back button closure <br> 100% Cotton Cold water | Machine wash in gentle cycle"
+  "id": "SKU062",
+  "image": ["patt9.jpg","patt9 (1).jpg","patt9 (2).jpg","patt9 (3).jpg"],
+  "name": "Mud Paisley",
+  "fprice": "2200",
+  "hprice": "1700",
+  "productdetails": "Brown Bagru handblock printed modal cotton fabric.<br>Made with natural dye. Actual color of the product may differ from the photograph <br><br><b>Washing Care</b> <br> First wash: dry clean. This product has been dyed/printed using traditional dying processes. The fabric may bleed color during washing or when in contact with a lighter colored upholstery. This will reduce after a few washes. Handwash with cold water and mild detergent"
 },
 {
-  "id": "7",
-  "image": "patt7.jpg",
-  "name": "Rose Valley",
-  "price": "3500",
-  "productdetails":"A sleeveless powder blue tired frock in mul cotton with rose block print all over.It comes along with a matching elasticated bloomer.<br>Handcrafted <br> Back button closure <br> 100% Cotton Cold water | Machine wash in gentle cycle"
+  "id": "SKU085",
+  "image": ["patt4.jpg","patt4 (1).jpg","patt4 (2).jpg","patt4 (3).jpg","patt4 (4).jpg"],
+  "name": "Golden Hour",
+  "fprice": "2200",
+  "hprice": "1700",
+  "productdetails": "Mustard Bagru handblock printed cotton jacquard fabric.<br>Made with natural dye. Actual color of the product may differ from the photograph <br><br><b>Washing Care</b> <br> First wash: dry clean. This product has been dyed/printed using traditional dying processes. The fabric may bleed color during washing or when in contact with a lighter colored upholstery. This will reduce after a few washes. Handwash with cold water and mild detergent"
+},
+{
+  "id": "SKU012",
+  "image": ["patt12.jpg","patt12 (1).jpg","patt12 (2).jpg","patt12 (3).jpg"],
+  "name": "Toothless Peacock",
+  "fprice": "2800",
+  "hprice": "2400",
+  "productdetails": "Turquoise Bagru handblock printed cotton fabric.<br>Made with natural dye. Actual color of the product may differ from the photograph <br><br><b>Washing Care</b> <br> First wash: dry clean. This product has been dyed/printed using traditional dying processes. The fabric may bleed color during washing or when in contact with a lighter colored upholstery. This will reduce after a few washes. Handwash with cold water and mild detergent"
+},
+{
+  "id": "SKU791",
+  "image": ["patt13.jpg","patt13_1.jpg","patt13_2.jpg","patt13_3.jpg"],
+  "name": "Red Forage",
+  "fprice": "2200",
+  "hprice": "1700",
+  "productdetails": "Black and Green Bagru handblock printed modal cotton fabric.<br>Made with natural dye. Actual color of the product may differ from the photograph <br><br><b>Washing Care</b> <br> First wash: dry clean. This product has been dyed/printed using traditional dying processes. The fabric may bleed color during washing or when in contact with a lighter colored upholstery. This will reduce after a few washes. Handwash with cold water and mild detergent"
+},
+{
+  "id": "SKU250",
+  "image": ["patt14.jpg","patt14_1.jpg","patt14_2.jpg"],
+  "name": "Crystal Powder",
+  "fprice": "2200",
+  "hprice": "1700",
+  "productdetails": "Off-white and Blue Bagru handblock printed modal cotton fabric.Made with natural dyes <br> Actual color of the product may differ from the photograph <br><br><b>Washing Care</b> <br> First wash: dry clean. This product has been dyed/printed using traditional dying processes. The fabric may bleed color during washing or when in contact with a lighter colored upholstery. This will reduce after a few washes. Handwash with cold water and mild detergent"
 }
 ]
