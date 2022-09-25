@@ -62,6 +62,7 @@
   "name": "Toothless Peacock",
   "fprice": "2800",
   "hprice": "2400",
+  "soldout": true,
   "productdetails": "Turquoise Bagru handblock printed cotton fabric.<br>Made with natural dye. Actual color of the product may differ from the photograph <br><br><b>Washing Care</b> <br> First wash: dry clean. This product has been dyed/printed using traditional dying processes. The fabric may bleed color during washing or when in contact with a lighter colored upholstery. This will reduce after a few washes. Handwash with cold water and mild detergent"
 },
 {
@@ -78,6 +79,7 @@
   "name": "Crystal Powder",
   "fprice": "2200",
   "hprice": "1700",
+  "soldout": true,
   "productdetails": "Off-white and Blue Bagru handblock printed modal cotton fabric.Made with natural dyes <br> Actual color of the product may differ from the photograph <br><br><b>Washing Care</b> <br> First wash: dry clean. This product has been dyed/printed using traditional dying processes. The fabric may bleed color during washing or when in contact with a lighter colored upholstery. This will reduce after a few washes. Handwash with cold water and mild detergent"
 }
 ]
