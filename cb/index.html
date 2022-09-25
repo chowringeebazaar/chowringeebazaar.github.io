@@ -227,7 +227,7 @@ Every product has a story to tell with a lot of effort and hard work that goes b
 
 <script type="text/javascript">
   
-  function product(image,name,price,id){
+  function product(image,name,price,id,soldout){
 
    return( `<div class="col-sm-12 col-md-4 mb-2">
     <a href="/cb/product/?id=`+id+`" class="text-secondary">
@@ -235,7 +235,7 @@ Every product has a story to tell with a lot of effort and hard work that goes b
      <div class="info">
       <span class="title" itemprop="name">`+name+`</span>
       <span class="price d-block" itemprop="offers" itemscope="" itemtype="http://schema.org/Offer">
-      <span class="Bold-theme-hook-DO-NOT-DELETE bold_product_price" data-override-value-set="1" data-override-value="`+price+`" style="display:none !important;"></span><span class="money" doubly-currency-inr="`+price+`" doubly-currency="INR">₹ `+price+`</span></span>    
+      <span class="Bold-theme-hook-DO-NOT-DELETE bold_product_price" data-override-value-set="1" data-override-value="`+price+`" style="display:none !important;"></span><span class="money" doubly-currency-inr="`+price+`" doubly-currency="INR">₹ `+price+ ` <b>`+soldout+`</b></span></span>    
       
     </div>
     </a>
@@ -267,9 +267,9 @@ $.getJSON("proddetails.json", function(result){
   console.log(result);
    $.each(result, function(i,item){
 
-    console.log(item.productdetails)
-
-    $('.productsection').append(product(item.image[0],item.name,item.fprice,item.id))
+    console.log(item)
+    soldout = item.soldout? "SOLD OUT":"";
+    $('.productsection').append(product(item.image[0],item.name,item.fprice,item.id,soldout))
 
   });
     
